@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\hamcrest-core-1.3.jar",
+        "d:\\CognizantDeepskillingSolutionsLocal\\Week 2\\Junit_basic_testing_exercises\\Exercise1_SettingUpJUnit\\lib\\junit-4.13.2.jar"
+    ]
+}
